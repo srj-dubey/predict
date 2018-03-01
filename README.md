@@ -1,8 +1,8 @@
 # predict
-# by Suraj Dubey (srj_dubey)
+  by Suraj Dubey (srj-dubey)
 # Chat Bot / Fake AI
-# Started on : 22-02-2018
-# Last Updated : 01-03-2018
+  Started on : 22-02-2018
+  Last Updated : 01-03-2018
 
 This is a Chat Bot or a Fake Ai namely called predict
 
