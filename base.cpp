@@ -1,7 +1,8 @@
 
 // predict
+// by Suraj Dubey
 // started on 22-02-2018
-// last updated on 28-02-2018
+// last updated on 01-03-2018
 
 //header files
 #include <iostream>
